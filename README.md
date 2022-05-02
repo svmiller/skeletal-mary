@@ -1,8 +1,4 @@
 
-|                            |
-|----------------------------|
-| \#output: github\_document |
-
 # A Random Item Response Model of External Territorial Threat, 1816-2010
 
 Multiple scholars have shown that external territorial threat,
