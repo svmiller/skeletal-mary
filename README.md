@@ -24,7 +24,9 @@ applications.
 -   `data-raw/`: this contains what I term to be the `1.0-beta` release
     of this random item response model of external territorial threat. I
     had originally termed it an “index”, which would explain the file
-    names.
+    names. An updated version of this data, in light of newer conflict
+    data from Gibler and Miller (Forthcoming), will appear in a separate
+    repository.
 -   `data/`: this contains finished data products for analyses that
     appear in the manuscript and appendix. The files that create them
     are in the `R/` directory.
