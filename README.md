@@ -19,6 +19,27 @@ suggest the measure does well to capture the concept in question. I
 close with a statement of the availability of the data and its potential
 applications.
 
+## Repository Directories
+
+-   `data-raw/`: this contains what I term to be the `1.0-beta` release
+    of this random item response model of external territorial threat. I
+    had originally termed it an “index”, which would explain the file
+    names.
+-   `data/`: this contains finished data products for analyses that
+    appear in the manuscript and appendix. The files that create them
+    are in the `R/` directory.
+-   `doc/`: this contains various documents for the project, including
+    the manuscript itself along with the response memo and the appendix.
+-   `inst/`: this contains assorted items. Here: a .csl for a reference
+    style that conforms to the American Political Science Association
+    along with a summary of reviewer feedback to guide me through the
+    process of revising the manuscript.
+-   `R/`: these are R scripts that conduct the analyses reported in the
+    manuscript and appendix. The finished data products from them are in
+    the `data/` directory.
+-   `src/`: these are scripts that are mostly there for making
+    documents. The Makefile will suggest more about how these work.
+
 ## An Explanation for This Repository’s Name
 
 [I got tired of the peer-review
