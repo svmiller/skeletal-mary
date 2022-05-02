@@ -19,6 +19,9 @@ suggest the measure does well to capture the concept in question. I
 close with a statement of the availability of the data and its potential
 applications.
 
+This paper is forthcoming at *Journal of Global Security Studies*
+(*JoGSS*).
+
 ## Repository Directories
 
 -   `data-raw/`: this contains what I term to be the `1.0-beta` release
